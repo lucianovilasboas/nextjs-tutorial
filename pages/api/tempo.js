@@ -4,3 +4,7 @@ function Tempo(request, response) {
 
     response.json({date: dynamicDate.toGMTString() });
 }
+
+
+
+export default Tempo;
