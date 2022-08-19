@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Luciano",
+        "old": 41
+    },
+    {
+        "nome": "isabella",
+        "idade": "5"
+    },
+    {
+        "nome": "isabella",
+        "idade": "5"
+    },
+    {
+        "nome": "isabella",
+        "idade": "5"
+    },
+    {
+        "nome": "isabella",
+        "idade": "5"
+    },
+    {
+        "nome": "isabella",
+        "idade": "5"
+    },
+    {
+        "nome": "Bernardo",
+        "idade": "8",
+        "status": "offline"
+    },
+    {
+        "nome": "Bernardo",
+        "idade": "8",
+        "status": "offline"
+    },
+    {
+        "nome": "Camila",
+        "idade": "39",
+        "status": "online"
+    },
+    {
+        "nome": "Camila",
+        "idade": "39",
+        "status": "online"
+    }
+]
